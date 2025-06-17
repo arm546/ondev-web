@@ -43,6 +43,13 @@ export const horizontalNavigation: FuseNavigationItem[] = [
         icon: 'heroicons_outline:document-chart-bar',
         link: '/report',
     },
+        {
+        id: 'cusstomer',
+        title: 'ลูกค้า',
+        type: 'basic',
+        icon: 'heroicons_outline:document-chart-bar',
+        link: '/report',
+    },
     {
         id: 'settings',
         title: 'ตั้งค่า',
